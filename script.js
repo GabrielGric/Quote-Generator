@@ -3,6 +3,7 @@ const quoteContainer = document.getElementById('quote-container');
 // const quoteText = document.getElementById('quote');
 // const authorText = document.getElementById('author');
 
+
 // dos formas distintas de levantar la info por el id las primeras dos de una manera y las ultimas dos de una manera distinta. 
 const quoteText = document.querySelector('#quote');
 const authorText = document.querySelector('#author');
